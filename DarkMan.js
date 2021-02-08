@@ -21,7 +21,7 @@ var table = require("table").table;
 const Discord = require("discord.js");
 const cmd = require("node-cmd");
 const prefix = "-";
-client.login("");
+client.login("ODA0MDM1NTY2NjY0Mjg2MjI5.YBGeeQ.KWlJJM5LLgMsX4-ElFM5tJg_7es");
 client.on("ready", async () => {
   console.log(`Logged in as ${client.user.username}!`);
   client.user.setStatus("idle");
